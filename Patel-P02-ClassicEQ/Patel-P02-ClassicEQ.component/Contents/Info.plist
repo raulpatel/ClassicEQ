@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AudioComponents</key>
+	<array>
+		<dict>
+			<key>description</key>
+			<string>Patel-P02-DeDeLayLay</string>
+			<key>factoryFunction</key>
+			<string>PatelP02DeDeLayLayAUFactory</string>
+			<key>manufacturer</key>
+			<string>Mu48</string>
+			<key>name</key>
+			<string>MUS 483: Patel-P02-DeDeLayLay</string>
+			<key>resourceUsage</key>
+			<dict>
+				<key>network.client</key>
+				<true/>
+				<key>temporary-exception.files.all.read-write</key>
+				<true/>
+			</dict>
+			<key>subtype</key>
+			<string>Nept</string>
+			<key>type</key>
+			<string>aufx</string>
+			<key>version</key>
+			<integer>65536</integer>
+		</dict>
+	</array>
+	<key>BuildMachineOSBuild</key>
+	<string>21G115</string>
+	<key>CFBundleDisplayName</key>
+	<string>Patel-P02-DeDeLayLay</string>
+	<key>CFBundleExecutable</key>
+	<string>Patel-P02-ClassicEQ</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.yourcompany.PatelP02DeDeLayLay</string>
+	<key>CFBundleName</key>
+	<string>Patel-P02-DeDeLayLay</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>1.0.0</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>14B47b</string>
+	<key>DTPlatformName</key>
+	<string>macosx</string>
+	<key>DTPlatformVersion</key>
+	<string>13.0</string>
+	<key>DTSDKBuild</key>
+	<string>22A372</string>
+	<key>DTSDKName</key>
+	<string>macosx13.0</string>
+	<key>DTXcode</key>
+	<string>1410</string>
+	<key>DTXcodeBuild</key>
+	<string>14B47b</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.14.6</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+</dict>
+</plist>
